@@ -4,6 +4,6 @@ A full-stack TypeScript CMS built on Astro and Cloudflare. EmDash takes the idea
 
 [https://emdashcms.com/]
 
-* Web: [http://localhost:4321/] Astro demo
-* API: [http://localhost:4321/_emdash/api/] API
-* git: [https://github.com/emdash-cms/emdash]
+* Web: [http://localhost:4321/](http://localhost:4321/) Astro demo
+* API: [http://localhost:4321/_emdash/api/](http://localhost:4321/_emdash/api/) API
+* git: [https://github.com/emdash-cms/emdash](https://github.com/emdash-cms/emdash)
